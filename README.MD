@@ -52,4 +52,4 @@ L’architecture repose sur les composants suivants :
 
 - Système de questions-réponses interne
 
-### Réalisé par: RANIA KETTANI
+## Réalisé par: RANIA KETTANI
