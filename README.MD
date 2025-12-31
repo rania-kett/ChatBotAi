@@ -1,4 +1,4 @@
-### Chatbot Intelligent – Microservice RAG (Spring Boot)
+# Chatbot Intelligent – Microservice RAG (Spring Boot)
 ## Description
 
 Ce projet consiste à développer un microservice de chatbot intelligent en utilisant Spring Boot et l’architecture RAG (Retrieval-Augmented Generation).
@@ -51,3 +51,5 @@ L’architecture repose sur les composants suivants :
 - Support client automatisé
 
 - Système de questions-réponses interne
+
+### Réalisé par: RANIA KETTANI
